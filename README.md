@@ -1,0 +1,2 @@
+# shopnetic
+Ecommerce shopping application
